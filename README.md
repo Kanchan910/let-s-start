@@ -1,7 +1,7 @@
 # let-s-start
-Cheers to new learning. 
+Cheers to new learnings. 
 <br>
-By-  Kanchan Anamika Maheshwari
+Author -  Kanchan Anamika Maheshwari
 <br>
  Aspiring Full Stack Developer
 <br>
