@@ -1,5 +1,5 @@
 # let-s-start
-Cheers to new learnings. 
+Cheers to daily learnings. 
 <br>
 Author -  Kanchan Anamika Maheshwari
 Persuing B.TECH 
